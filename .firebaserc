@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "rich-kevan"
+  },
+  "targets": {
+    "rich-kevan": {
+      "hosting": {
+        "insta_clone": [
+          "insta-richkevan"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
